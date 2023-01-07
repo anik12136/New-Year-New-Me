@@ -6,13 +6,12 @@
 .header{
 background-image: url(../images/banner/banner3.png);
 background-repeat: no-repeat;
-
-height: 808px;
+height: 800px;
 }
 
 .banner-description{
     text-align: right; 
-    margin: 216px 220px 364px 845px;   
+    padding:200px 150px 364px 845px;   
 }
 .banner-h1{
     font-size: 55px;
@@ -46,8 +45,8 @@ height: 808px;
                 width: 500px;
                 height: 700px;
             }
-            /* my-failure-desscriptions */
-            .my-failure-desscriptions{
+            /* my-failure-descriptions */
+            .my-failure-descriptions{
                 width: 416px;
                 height: 400px;
                 margin-top: 370px;
@@ -56,7 +55,7 @@ height: 808px;
                 font-size: 40px;
 
             }
-            /* my-failure-pragaph */
+            /* my-failure-paragraph */
             .my-failure-pra{
                     margin-top: 20px;
             }
@@ -121,10 +120,11 @@ height: 808px;
     border-radius: 6px;
     text-align: left;
 }
-.callNow-fornt{
+.callNow-font{
    margin: 50px 50px;
    width: 459px;
-height: 182px;
+   height: 182px;
+   padding-top: 70px;
 }
 
 
