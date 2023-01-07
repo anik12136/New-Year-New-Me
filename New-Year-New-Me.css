@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans';
+
+}
+.header{
+background-image: url(../images/banner/banner3.png);
+background-repeat: no-repeat;
+
+height: 808px;
+}
+
+.banner-description{
+    text-align: right; 
+    margin: 216px 220px 364px 845px;   
+}
+.banner-h1{
+    font-size: 55px;
+    color: #FFFFFF;
+}
+.banner-pra{
+    font-size: 15px;
+    margin-top: 25px;
+    color: #FFFFFF;
+}
+.button-primary{
+    margin-top: 30px;
+    height: 64px;
+    border: 0;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    color: #FFFFFF;
+    padding: 18px 35px;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+/* my-failure-section-1 */
+.my-failure-section{
+    display: flex;
+    gap: 90px;
+    margin-left: 200px;
+}
+            /* image */
+            .my-failure-img{
+                width: 500px;
+                height: 700px;
+            }
+            /* my-failure-desscriptions */
+            .my-failure-desscriptions{
+                width: 416px;
+                height: 400px;
+                margin-top: 370px;
+            }
+            .my-failure-h1{
+                font-size: 40px;
+
+            }
+            /* my-failure-pragaph */
+            .my-failure-pra{
+                    margin-top: 20px;
+            }
+            .my-failure-list{
+                list-style:square;
+                margin-top: 15px;
+            }
+
+            /* plan section-2 */
+
+
+.planRow{
+    display: flex;
+    gap: 80px;
+    margin-top: 50px;
+    margin-left: 140px;
+    width: 1141px;
+    height: 202.96px;
+    
+}
+.myPlans{
+    text-align: center;
+    font-size: 40px;
+}
+/* plan text centering */
+.P-center{
+    text-align: center;
+    
+}
+
+/* details section-3 */
+.details{
+    background-color: rgb(186, 185, 185);
+    width: 214px;
+    height: 197px; 
+    border-radius: 5px;
+
+}
+.plansList{
+    display: flex;
+    gap: 45px;
+    margin-left: 160px;
+}
+.sp{
+    
+    font-size: 20px;
+}
+.plans-details{
+    color:#0a4673;
+    text-align: center;
+    font-size: medium;
+
+}
+
+/* call now section-4 */
+.call-now-section{
+    
+    background-image:linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(./images/watch.png);
+    width: 1000px;
+    height: 300px;
+    margin: 100px 200px;
+    border-radius: 6px;
+    text-align: left;
+}
+.callNow-fornt{
+   margin: 50px 50px;
+   width: 459px;
+height: 182px;
+}
+
+
+/*  h1 text color ,size */
+.h1txt{
+    font-size: 35px;
+    color:aliceblue;
+    
+}
+/* footer */
+footer{
+    background-color: black;
+    height: 450px;
+}
+.foot-lhs-rhs{
+    display: flex;
+    gap: 330px;
+    color: aliceblue;
+    margin-left: 130px;
+}
+/* left footer */
+.foot-left{
+    width: 485px;
+height: 350px;
+left: 230px;
+margin-top: 100px;
+}
+.Email{
+    text-decoration: none;
+    color: aquamarine;
+}
+      
+/* right footer */
+.foot-right{
+margin-top: 100px;
+}
+
+.subscribe{
+    margin-top: 5px;
+}
+/* email box */
+#email{
+    width: 300px;
+    height: 55px;
+    margin-top: 30px;
+    background-color: black;
+    border-color: #FFFFFF;
+    border-radius: 10px;
+}
+ 
+            
